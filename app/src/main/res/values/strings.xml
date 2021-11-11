@@ -2,7 +2,15 @@
     <string name="app_name">Quiz App</string>
     <string name="bcsf18a534">BCSF18A534</string>
     <string name="samim_zubair">SAMIM ZUBAIR</string>
-    <string name="move_to_app">MOVE TO APP</string>
+    <string name="move_to_app">MOVE TO QUIZ</string>
     <string name="move_to_repo">MOVE TO REPO</string>
     <string name="todo">TODO</string>
+    <string name="welcome">WELCOME</string>
+    <string name="wel_name">Name</string>
+    <string name="w_name">Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_roll_no">Enter Your Roll No</string>
+    <string name="roll_no">Roll No.</string>
+    <string name="proceed">Proceed</string>
+    <string name="revise">Revise</string>
 </resources>
